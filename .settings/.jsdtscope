@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="js/|jPlayer/|jPlayer/popcorn/|jPlayer/add-on/|ViewerJS/" kind="src" path="filemanager"/>
+	<classpathentry excluding="popcorn/|add-on/" kind="src" path="filemanager/jPlayer"/>
+	<classpathentry kind="src" path="filemanager/jPlayer/add-on"/>
+	<classpathentry kind="src" path="filemanager/jPlayer/popcorn"/>
+	<classpathentry kind="src" path="filemanager/js"/>
+	<classpathentry kind="src" path="filemanager/ViewerJS"/>
+	<classpathentry kind="src" path="tinymce/plugins/responsivefilemanager"/>
+	<classpathentry kind="con" path="org.eclipse.wst.jsdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
